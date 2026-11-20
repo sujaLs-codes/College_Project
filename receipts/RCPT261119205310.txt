@@ -1,0 +1,17 @@
+======================================
+        MOVIE TICKET RECEIPT
+======================================
+Receipt ID : RCPT261119205310
+Booked on  : 19 Nov 2026, 08:53 PM
+Customer   : Sujal , Atharv
+Movie      : Sample Movie 1
+Show time  : 25 Dec 2026, 06:00 PM
+Screen     : 1
+--------------------------------------
+  Seat E6           Rs.  300.00
+  Seat E7           Rs.  300.00
+--------------------------------------
+  TOTAL PAID        Rs.  600.00
+Payment    : Cash at counter
+======================================
+     Thank you! Enjoy the movie.

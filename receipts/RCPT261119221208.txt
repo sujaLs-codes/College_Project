@@ -1,0 +1,17 @@
+======================================
+        MOVIE TICKET RECEIPT
+======================================
+Receipt ID : RCPT261119221208
+Booked on  : 19 Nov 2026, 10:12 PM
+Customer   : mona
+Movie      : Sample Movie 1
+Show time  : 25 Dec 2026, 06:00 PM
+Screen     : 1
+--------------------------------------
+  Seat D7           Rs.  200.00
+  Seat D8           Rs.  200.00
+--------------------------------------
+  TOTAL PAID        Rs.  400.00
+Payment    : Cash at counter
+======================================
+     Thank you! Enjoy the movie.

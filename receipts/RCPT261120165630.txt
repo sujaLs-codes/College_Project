@@ -1,0 +1,17 @@
+======================================
+        MOVIE TICKET RECEIPT
+======================================
+Receipt ID : RCPT261120165630
+Booked on  : 20 Nov 2026, 04:56 PM
+Customer   : Sunil
+Movie      : The Avengers
+Show time  : 22 Dec 2026, 08:00 PM
+Screen     : 3
+--------------------------------------
+  Seat D3           Rs.  200.00
+  Seat D2           Rs.  200.00
+--------------------------------------
+  TOTAL PAID        Rs.  400.00
+Payment    : UPI (sujal@kha)
+======================================
+     Thank you! Enjoy the movie.

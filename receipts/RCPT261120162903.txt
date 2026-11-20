@@ -1,0 +1,17 @@
+======================================
+        MOVIE TICKET RECEIPT
+======================================
+Receipt ID : RCPT261120162903
+Booked on  : 20 Nov 2026, 04:29 PM
+Customer   : Pinki Dada
+Movie      : Sample Movie 1
+Show time  : 25 Dec 2026, 06:00 PM
+Screen     : 1
+--------------------------------------
+  Seat B4           Rs.  150.00
+  Seat B5           Rs.  150.00
+--------------------------------------
+  TOTAL PAID        Rs.  300.00
+Payment    : UPI (atharv@atharv)
+======================================
+     Thank you! Enjoy the movie.

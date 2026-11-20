@@ -1,0 +1,55 @@
+======================================
+        MOVIE TICKET RECEIPT
+======================================
+Receipt ID : RCPT261120121936
+Booked on  : 20 Nov 2026, 12:19 PM
+Customer   : Atharv.S.Bhorkar
+Movie      : The Avengers
+Show time  : 21 Dec 2026, 05:00 PM
+Screen     : 3
+--------------------------------------
+  Seat A1           Rs.  150.00
+  Seat A2           Rs.  150.00
+  Seat A3           Rs.  150.00
+  Seat A4           Rs.  150.00
+  Seat A5           Rs.  150.00
+  Seat A6           Rs.  150.00
+  Seat A7           Rs.  150.00
+  Seat A8           Rs.  150.00
+  Seat B8           Rs.  150.00
+  Seat C8           Rs.  200.00
+  Seat D8           Rs.  200.00
+  Seat E8           Rs.  300.00
+  Seat E7           Rs.  300.00
+  Seat E6           Rs.  300.00
+  Seat E5           Rs.  300.00
+  Seat E4           Rs.  300.00
+  Seat E3           Rs.  300.00
+  Seat E2           Rs.  300.00
+  Seat C1           Rs.  200.00
+  Seat D1           Rs.  200.00
+  Seat E1           Rs.  300.00
+  Seat B1           Rs.  150.00
+  Seat B2           Rs.  150.00
+  Seat B3           Rs.  150.00
+  Seat B4           Rs.  150.00
+  Seat B5           Rs.  150.00
+  Seat B6           Rs.  150.00
+  Seat B7           Rs.  150.00
+  Seat C7           Rs.  200.00
+  Seat D7           Rs.  200.00
+  Seat D6           Rs.  200.00
+  Seat D5           Rs.  200.00
+  Seat D4           Rs.  200.00
+  Seat D3           Rs.  200.00
+  Seat D2           Rs.  200.00
+  Seat C2           Rs.  200.00
+  Seat C3           Rs.  200.00
+  Seat C4           Rs.  200.00
+  Seat C5           Rs.  200.00
+  Seat C6           Rs.  200.00
+--------------------------------------
+  TOTAL PAID        Rs. 8000.00
+Payment    : UPI (atharv@atharv)
+======================================
+     Thank you! Enjoy the movie.
